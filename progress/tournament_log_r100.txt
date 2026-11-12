@@ -1,0 +1,34 @@
+Using offset=40 to map checkpoint-local iteration to global iteration
+best_iter10.pt       (global iter  50): 8-2-0 vs pure MCTS, win_rate=80.0%
+best_iter20.pt       (global iter  60): 7-1-2 vs pure MCTS, win_rate=87.5%
+best_iter30.pt       (global iter  70): 9-1-0 vs pure MCTS, win_rate=90.0%
+best_iter40.pt       (global iter  80): 8-2-0 vs pure MCTS, win_rate=80.0%
+best_iter50.pt       (global iter  90): 7-3-0 vs pure MCTS, win_rate=70.0%
+best_iter60.pt       (global iter 100): 9-1-0 vs pure MCTS, win_rate=90.0%
+best_iter70.pt       (global iter 110): 9-0-1 vs pure MCTS, win_rate=100.0%
+best_iter80.pt       (global iter 120): 10-0-0 vs pure MCTS, win_rate=100.0%
+best_iter90.pt       (global iter 130): 9-1-0 vs pure MCTS, win_rate=90.0%
+best_iter100.pt      (global iter 140): 9-1-0 vs pure MCTS, win_rate=90.0%
+best_iter110.pt      (global iter 150): 10-0-0 vs pure MCTS, win_rate=100.0%
+best_iter120.pt      (global iter 160): 10-0-0 vs pure MCTS, win_rate=100.0%
+best_iter130.pt      (global iter 170): 10-0-0 vs pure MCTS, win_rate=100.0%
+best_iter140.pt      (global iter 180): 7-3-0 vs pure MCTS, win_rate=70.0%
+best_iter150.pt      (global iter 190): 10-0-0 vs pure MCTS, win_rate=100.0%
+best_iter160.pt      (global iter 200): 8-1-1 vs pure MCTS, win_rate=88.9%
+best_iter170.pt      (global iter 210): 10-0-0 vs pure MCTS, win_rate=100.0%
+best_iter180.pt      (global iter 220): 9-1-0 vs pure MCTS, win_rate=90.0%
+best_iter190.pt      (global iter 230): 9-1-0 vs pure MCTS, win_rate=90.0%
+best_iter200.pt      (global iter 240): 9-1-0 vs pure MCTS, win_rate=90.0%
+best_iter210.pt      (global iter 250): 10-0-0 vs pure MCTS, win_rate=100.0%
+best_iter220.pt      (global iter 260): 9-1-0 vs pure MCTS, win_rate=90.0%
+best_iter230.pt      (global iter 270): 10-0-0 vs pure MCTS, win_rate=100.0%
+best_iter240.pt      (global iter 280): 10-0-0 vs pure MCTS, win_rate=100.0%
+best_iter250.pt      (global iter 290): 8-1-1 vs pure MCTS, win_rate=88.9%
+best_iter260.pt      (global iter 300): 9-1-0 vs pure MCTS, win_rate=90.0%
+best_iter270.pt      (global iter 310): 10-0-0 vs pure MCTS, win_rate=100.0%
+best_iter280.pt      (global iter 320): 10-0-0 vs pure MCTS, win_rate=100.0%
+best_iter290.pt      (global iter 330): 10-0-0 vs pure MCTS, win_rate=100.0%
+best_iter300.pt      (global iter 340): 9-1-0 vs pure MCTS, win_rate=90.0%
+
+Saved results to C:\Users\sarup\OneDrive\Desktop\deep learning\connect4_azero\progress\tournament_results.csv
+Saved plot to C:\Users\sarup\OneDrive\Desktop\deep learning\connect4_azero\progress\tournament_progress.png

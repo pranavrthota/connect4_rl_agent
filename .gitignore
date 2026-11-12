@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Model weights: best.pt is the one that matters; the per-iteration
+# snapshots are large and regenerable by re-running train.py.
+checkpoints/best_iter*.pt

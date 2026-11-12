@@ -1,0 +1,5 @@
+torch>=2.0
+numpy
+# analysis / plotting: plot_progress.py and tournament.py
+pandas
+matplotlib

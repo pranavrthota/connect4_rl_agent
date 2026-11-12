@@ -1,0 +1,902 @@
+Using device: cuda
+Resumed best.pt
+[iter 1] self-play: 64 games in 36.1s, avg_moves=23.2, P1=30 P2=32 draw=2, buffer=2972
+  train: 200 steps in 2.7s, policy_loss=1.2182, value_loss=0.3422
+  arena (14.1s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 2] self-play: 64 games in 38.3s, avg_moves=25.1, P1=26 P2=32 draw=6, buffer=6180
+  train: 200 steps in 2.6s, policy_loss=1.2152, value_loss=0.3099
+  arena (9.0s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 3] self-play: 64 games in 43.4s, avg_moves=27.2, P1=28 P2=30 draw=6, buffer=9660
+  train: 200 steps in 3.0s, policy_loss=1.2068, value_loss=0.3134
+  arena (16.7s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 4] self-play: 64 games in 38.7s, avg_moves=26.3, P1=39 P2=20 draw=5, buffer=13030
+  train: 200 steps in 2.6s, policy_loss=1.2260, value_loss=0.3093
+  arena (17.5s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 5] self-play: 64 games in 38.4s, avg_moves=27.1, P1=33 P2=28 draw=3, buffer=16504
+  train: 200 steps in 2.9s, policy_loss=1.2333, value_loss=0.3349
+  arena (15.1s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 6] self-play: 64 games in 39.2s, avg_moves=27.1, P1=30 P2=28 draw=6, buffer=19968
+  train: 200 steps in 2.5s, policy_loss=1.2499, value_loss=0.3146
+  arena (18.1s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 7] self-play: 64 games in 37.1s, avg_moves=25.0, P1=27 P2=31 draw=6, buffer=23174
+  train: 200 steps in 2.6s, policy_loss=1.2473, value_loss=0.3155
+  arena (18.9s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 8] self-play: 64 games in 37.2s, avg_moves=27.2, P1=38 P2=23 draw=3, buffer=26654
+  train: 200 steps in 2.5s, policy_loss=1.2669, value_loss=0.3279
+  arena (16.1s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 9] self-play: 64 games in 31.8s, avg_moves=23.3, P1=40 P2=23 draw=1, buffer=29634
+  train: 200 steps in 2.5s, policy_loss=1.2791, value_loss=0.3247
+  arena (10.9s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 10] self-play: 64 games in 30.8s, avg_moves=22.5, P1=43 P2=19 draw=2, buffer=32508
+  train: 200 steps in 2.5s, policy_loss=1.2891, value_loss=0.3414
+  arena (16.0s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 11] self-play: 64 games in 34.9s, avg_moves=26.5, P1=36 P2=19 draw=9, buffer=35904
+  train: 200 steps in 2.5s, policy_loss=1.2842, value_loss=0.3400
+  arena (11.5s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 12] self-play: 64 games in 33.1s, avg_moves=24.1, P1=45 P2=15 draw=4, buffer=38990
+  train: 200 steps in 2.6s, policy_loss=1.2897, value_loss=0.3407
+  arena (17.1s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 13] self-play: 64 games in 35.1s, avg_moves=26.3, P1=35 P2=25 draw=4, buffer=42356
+  train: 200 steps in 2.6s, policy_loss=1.2860, value_loss=0.3524
+  arena (11.4s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 14] self-play: 64 games in 37.3s, avg_moves=27.3, P1=38 P2=23 draw=3, buffer=45852
+  train: 200 steps in 2.7s, policy_loss=1.2822, value_loss=0.3486
+  arena (14.4s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 15] self-play: 64 games in 33.4s, avg_moves=24.2, P1=41 P2=20 draw=3, buffer=48950
+  train: 200 steps in 2.6s, policy_loss=1.2894, value_loss=0.3475
+  arena (13.6s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 16] self-play: 64 games in 33.0s, avg_moves=23.7, P1=37 P2=25 draw=2, buffer=51984
+  train: 200 steps in 2.6s, policy_loss=1.2881, value_loss=0.3491
+  arena (11.7s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 17] self-play: 64 games in 36.4s, avg_moves=25.5, P1=45 P2=15 draw=4, buffer=55254
+  train: 200 steps in 2.6s, policy_loss=1.2775, value_loss=0.3569
+  arena (13.1s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 18] self-play: 64 games in 36.8s, avg_moves=25.7, P1=38 P2=23 draw=3, buffer=58546
+  train: 200 steps in 2.5s, policy_loss=1.2855, value_loss=0.3585
+  arena (9.3s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 19] self-play: 64 games in 36.3s, avg_moves=26.0, P1=34 P2=23 draw=7, buffer=61878
+  train: 200 steps in 2.6s, policy_loss=1.2849, value_loss=0.3629
+  arena (12.8s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 20] self-play: 64 games in 35.8s, avg_moves=25.7, P1=37 P2=24 draw=3, buffer=65172
+  train: 200 steps in 2.6s, policy_loss=1.2848, value_loss=0.3554
+  arena (17.9s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 21] self-play: 64 games in 35.2s, avg_moves=24.3, P1=39 P2=24 draw=1, buffer=68282
+  train: 200 steps in 2.5s, policy_loss=1.2867, value_loss=0.3648
+  arena (16.2s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 22] self-play: 64 games in 36.6s, avg_moves=26.4, P1=36 P2=23 draw=5, buffer=71666
+  train: 200 steps in 2.6s, policy_loss=1.2752, value_loss=0.3686
+  arena (17.9s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 23] self-play: 64 games in 37.2s, avg_moves=24.7, P1=40 P2=21 draw=3, buffer=74830
+  train: 200 steps in 2.7s, policy_loss=1.2806, value_loss=0.3724
+  arena (16.4s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 24] self-play: 64 games in 37.6s, avg_moves=26.6, P1=37 P2=25 draw=2, buffer=78232
+  train: 200 steps in 2.6s, policy_loss=1.2798, value_loss=0.3781
+  arena (16.7s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 25] self-play: 64 games in 37.2s, avg_moves=27.3, P1=34 P2=23 draw=7, buffer=81732
+  train: 200 steps in 2.5s, policy_loss=1.2831, value_loss=0.3855
+  arena (11.6s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 26] self-play: 64 games in 37.8s, avg_moves=27.1, P1=34 P2=23 draw=7, buffer=85200
+  train: 200 steps in 2.6s, policy_loss=1.2785, value_loss=0.3838
+  arena (17.0s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 27] self-play: 64 games in 36.9s, avg_moves=26.2, P1=30 P2=31 draw=3, buffer=88560
+  train: 200 steps in 2.6s, policy_loss=1.2855, value_loss=0.3890
+  arena (14.6s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 28] self-play: 64 games in 37.2s, avg_moves=26.6, P1=36 P2=26 draw=2, buffer=91964
+  train: 200 steps in 2.6s, policy_loss=1.2873, value_loss=0.3867
+  arena (15.2s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 29] self-play: 64 games in 36.1s, avg_moves=25.0, P1=36 P2=22 draw=6, buffer=95164
+  train: 200 steps in 2.6s, policy_loss=1.2960, value_loss=0.3929
+  arena (11.9s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 30] self-play: 64 games in 39.0s, avg_moves=26.5, P1=21 P2=40 draw=3, buffer=98558
+  train: 200 steps in 2.8s, policy_loss=1.2964, value_loss=0.3982
+  arena (13.5s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 31] self-play: 64 games in 39.1s, avg_moves=28.7, P1=27 P2=33 draw=4, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2847, value_loss=0.4045
+  arena (14.4s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 32] self-play: 64 games in 37.4s, avg_moves=27.3, P1=33 P2=25 draw=6, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.2887, value_loss=0.4042
+  arena (14.3s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 33] self-play: 64 games in 35.1s, avg_moves=25.1, P1=40 P2=22 draw=2, buffer=100000
+  train: 200 steps in 3.1s, policy_loss=1.2917, value_loss=0.4125
+  arena (11.1s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 34] self-play: 64 games in 35.6s, avg_moves=24.6, P1=40 P2=23 draw=1, buffer=100000
+  train: 200 steps in 2.5s, policy_loss=1.2869, value_loss=0.4096
+  arena (13.1s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 35] self-play: 64 games in 37.8s, avg_moves=27.5, P1=27 P2=30 draw=7, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2883, value_loss=0.4190
+  arena (16.4s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 36] self-play: 64 games in 38.5s, avg_moves=27.0, P1=28 P2=31 draw=5, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2876, value_loss=0.4143
+  arena (15.8s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 37] self-play: 64 games in 36.6s, avg_moves=24.7, P1=39 P2=24 draw=1, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2822, value_loss=0.4118
+  arena (9.5s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 38] self-play: 64 games in 37.8s, avg_moves=26.5, P1=31 P2=28 draw=5, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2837, value_loss=0.4126
+  arena (6.8s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 39] self-play: 64 games in 38.9s, avg_moves=27.6, P1=33 P2=29 draw=2, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2795, value_loss=0.4108
+  arena (10.3s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 40] self-play: 64 games in 39.8s, avg_moves=28.8, P1=32 P2=28 draw=4, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.2726, value_loss=0.4226
+  arena (12.8s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 41] self-play: 64 games in 37.3s, avg_moves=25.2, P1=34 P2=24 draw=6, buffer=100000
+  train: 200 steps in 2.5s, policy_loss=1.2780, value_loss=0.4074
+  arena (17.4s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 42] self-play: 64 games in 37.4s, avg_moves=26.8, P1=38 P2=22 draw=4, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.2749, value_loss=0.4216
+  arena (18.5s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 43] self-play: 64 games in 36.3s, avg_moves=26.1, P1=35 P2=26 draw=3, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.2679, value_loss=0.4162
+  arena (11.9s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 44] self-play: 64 games in 37.3s, avg_moves=27.2, P1=30 P2=27 draw=7, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2746, value_loss=0.4254
+  arena (16.7s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 45] self-play: 64 games in 37.2s, avg_moves=27.2, P1=37 P2=22 draw=5, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.2750, value_loss=0.4259
+  arena (13.9s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 46] self-play: 64 games in 38.7s, avg_moves=28.4, P1=30 P2=28 draw=6, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2762, value_loss=0.4182
+  arena (17.9s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 47] self-play: 64 games in 38.0s, avg_moves=27.9, P1=32 P2=29 draw=3, buffer=100000
+  train: 200 steps in 2.5s, policy_loss=1.2716, value_loss=0.4222
+  arena (12.5s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 48] self-play: 64 games in 38.9s, avg_moves=27.9, P1=29 P2=28 draw=7, buffer=100000
+  train: 200 steps in 2.5s, policy_loss=1.2751, value_loss=0.4277
+  arena (18.8s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 49] self-play: 64 games in 38.7s, avg_moves=28.8, P1=32 P2=27 draw=5, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.2690, value_loss=0.4243
+  arena (13.1s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 50] self-play: 64 games in 37.2s, avg_moves=27.2, P1=33 P2=29 draw=2, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=1.2757, value_loss=0.4200
+  arena (18.1s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 51] self-play: 64 games in 42.4s, avg_moves=30.3, P1=29 P2=28 draw=7, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=1.2713, value_loss=0.4237
+  arena (20.4s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 52] self-play: 64 games in 38.1s, avg_moves=25.7, P1=37 P2=24 draw=3, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.2675, value_loss=0.4251
+  arena (14.9s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 53] self-play: 64 games in 41.6s, avg_moves=28.7, P1=32 P2=26 draw=6, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.2688, value_loss=0.4268
+  arena (17.4s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 54] self-play: 64 games in 39.6s, avg_moves=28.2, P1=33 P2=28 draw=3, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.2698, value_loss=0.4151
+  arena (16.4s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 55] self-play: 64 games in 39.0s, avg_moves=27.3, P1=32 P2=24 draw=8, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2668, value_loss=0.4161
+  arena (14.4s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 56] self-play: 64 games in 42.5s, avg_moves=28.3, P1=28 P2=32 draw=4, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=1.2760, value_loss=0.4303
+  arena (15.3s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 57] self-play: 64 games in 40.6s, avg_moves=28.5, P1=26 P2=29 draw=9, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2713, value_loss=0.4135
+  arena (15.1s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 58] self-play: 64 games in 39.8s, avg_moves=28.1, P1=25 P2=32 draw=7, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.2755, value_loss=0.4239
+  arena (16.9s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 59] self-play: 64 games in 39.3s, avg_moves=28.2, P1=29 P2=29 draw=6, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=1.2684, value_loss=0.4161
+  arena (13.1s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 60] self-play: 64 games in 40.7s, avg_moves=28.5, P1=29 P2=32 draw=3, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.2596, value_loss=0.4173
+  arena (12.2s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 61] self-play: 64 games in 41.4s, avg_moves=29.5, P1=19 P2=34 draw=11, buffer=100000
+  train: 200 steps in 3.0s, policy_loss=1.2596, value_loss=0.4165
+  arena (12.4s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 62] self-play: 64 games in 39.4s, avg_moves=27.8, P1=31 P2=28 draw=5, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2572, value_loss=0.4183
+  arena (16.7s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 63] self-play: 64 games in 39.3s, avg_moves=28.2, P1=21 P2=30 draw=13, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=1.2573, value_loss=0.4016
+  arena (14.5s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 64] self-play: 64 games in 40.2s, avg_moves=27.9, P1=32 P2=23 draw=9, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.2517, value_loss=0.4040
+  arena (19.3s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 65] self-play: 64 games in 41.2s, avg_moves=29.6, P1=25 P2=27 draw=12, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2519, value_loss=0.4013
+  arena (18.2s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 66] self-play: 64 games in 42.2s, avg_moves=30.5, P1=28 P2=29 draw=7, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2366, value_loss=0.3995
+  arena (18.4s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 67] self-play: 64 games in 39.8s, avg_moves=28.7, P1=31 P2=27 draw=6, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2483, value_loss=0.3990
+  arena (20.1s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 68] self-play: 64 games in 40.5s, avg_moves=28.4, P1=22 P2=36 draw=6, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=1.2492, value_loss=0.4008
+  arena (13.7s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 69] self-play: 64 games in 40.6s, avg_moves=28.0, P1=29 P2=27 draw=8, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.2442, value_loss=0.3959
+  arena (18.2s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 70] self-play: 64 games in 44.2s, avg_moves=31.4, P1=32 P2=21 draw=11, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2377, value_loss=0.3840
+  arena (12.4s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 71] self-play: 64 games in 40.0s, avg_moves=28.4, P1=30 P2=31 draw=3, buffer=100000
+  train: 200 steps in 3.0s, policy_loss=1.2344, value_loss=0.3925
+  arena (13.7s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 72] self-play: 64 games in 43.1s, avg_moves=32.1, P1=26 P2=26 draw=12, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.2397, value_loss=0.3889
+  arena (18.7s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 73] self-play: 64 games in 40.7s, avg_moves=28.1, P1=22 P2=34 draw=8, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2423, value_loss=0.3784
+  arena (17.5s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 74] self-play: 64 games in 43.4s, avg_moves=32.2, P1=26 P2=28 draw=10, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.2302, value_loss=0.3854
+  arena (12.9s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 75] self-play: 64 games in 40.9s, avg_moves=29.5, P1=27 P2=30 draw=7, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2272, value_loss=0.3837
+  arena (19.6s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 76] self-play: 64 games in 45.3s, avg_moves=32.6, P1=17 P2=38 draw=9, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2321, value_loss=0.3909
+  arena (17.1s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 77] self-play: 64 games in 42.2s, avg_moves=30.8, P1=25 P2=27 draw=12, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2327, value_loss=0.3869
+  arena (17.8s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 78] self-play: 64 games in 43.1s, avg_moves=31.2, P1=26 P2=25 draw=13, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.2198, value_loss=0.3843
+  arena (16.2s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 79] self-play: 64 games in 43.2s, avg_moves=31.9, P1=23 P2=29 draw=12, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.2226, value_loss=0.3806
+  arena (13.6s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 80] self-play: 64 games in 42.1s, avg_moves=30.8, P1=22 P2=30 draw=12, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.2181, value_loss=0.3916
+  arena (11.2s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 81] self-play: 64 games in 43.7s, avg_moves=32.4, P1=26 P2=30 draw=8, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.2119, value_loss=0.3821
+  arena (16.0s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 82] self-play: 64 games in 41.2s, avg_moves=29.1, P1=28 P2=27 draw=9, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.2087, value_loss=0.3804
+  arena (18.6s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 83] self-play: 64 games in 42.2s, avg_moves=30.4, P1=29 P2=25 draw=10, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=1.1990, value_loss=0.3747
+  arena (15.6s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 84] self-play: 64 games in 44.2s, avg_moves=33.1, P1=27 P2=26 draw=11, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.1963, value_loss=0.3686
+  arena (18.7s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 85] self-play: 64 games in 43.8s, avg_moves=31.4, P1=18 P2=40 draw=6, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2024, value_loss=0.3785
+  arena (13.0s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 86] self-play: 64 games in 43.9s, avg_moves=31.6, P1=24 P2=29 draw=11, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.2025, value_loss=0.3753
+  arena (18.1s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 87] self-play: 64 games in 44.7s, avg_moves=34.1, P1=20 P2=31 draw=13, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.2050, value_loss=0.3733
+  arena (16.8s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 88] self-play: 64 games in 44.7s, avg_moves=32.5, P1=21 P2=29 draw=14, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.1912, value_loss=0.3607
+  arena (17.6s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 89] self-play: 64 games in 43.5s, avg_moves=32.3, P1=29 P2=26 draw=9, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.2005, value_loss=0.3619
+  arena (17.6s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 90] self-play: 64 games in 43.9s, avg_moves=31.7, P1=25 P2=29 draw=10, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.1951, value_loss=0.3672
+  arena (16.6s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 91] self-play: 64 games in 41.9s, avg_moves=29.8, P1=24 P2=31 draw=9, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.1881, value_loss=0.3585
+  arena (18.2s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 92] self-play: 64 games in 43.1s, avg_moves=31.3, P1=35 P2=15 draw=14, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.1886, value_loss=0.3569
+  arena (19.1s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 93] self-play: 64 games in 43.1s, avg_moves=31.7, P1=26 P2=29 draw=9, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.1875, value_loss=0.3520
+  arena (16.5s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 94] self-play: 64 games in 41.9s, avg_moves=29.6, P1=26 P2=33 draw=5, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.1911, value_loss=0.3509
+  arena (17.0s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 95] self-play: 64 games in 42.1s, avg_moves=31.7, P1=27 P2=26 draw=11, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.1854, value_loss=0.3439
+  arena (16.2s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 96] self-play: 64 games in 42.8s, avg_moves=30.8, P1=20 P2=38 draw=6, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.1850, value_loss=0.3444
+  arena (17.3s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 97] self-play: 64 games in 42.1s, avg_moves=29.3, P1=24 P2=28 draw=12, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=1.1886, value_loss=0.3530
+  arena (17.8s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 98] self-play: 64 games in 42.7s, avg_moves=30.6, P1=29 P2=22 draw=13, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.1819, value_loss=0.3493
+  arena (17.8s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 99] self-play: 64 games in 42.3s, avg_moves=31.8, P1=28 P2=25 draw=11, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.1889, value_loss=0.3517
+  arena (17.5s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 100] self-play: 64 games in 44.7s, avg_moves=31.7, P1=26 P2=25 draw=13, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.1789, value_loss=0.3492
+  arena (17.0s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 101] self-play: 64 games in 44.7s, avg_moves=32.1, P1=25 P2=26 draw=13, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.1839, value_loss=0.3526
+  arena (17.8s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 102] self-play: 64 games in 41.7s, avg_moves=30.2, P1=35 P2=24 draw=5, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.1860, value_loss=0.3477
+  arena (17.0s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 103] self-play: 64 games in 41.9s, avg_moves=30.8, P1=27 P2=27 draw=10, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.1833, value_loss=0.3486
+  arena (17.7s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 104] self-play: 64 games in 43.2s, avg_moves=31.4, P1=29 P2=24 draw=11, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=1.1825, value_loss=0.3560
+  arena (17.9s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 105] self-play: 64 games in 44.5s, avg_moves=33.0, P1=29 P2=19 draw=16, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.1782, value_loss=0.3424
+  arena (17.5s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 106] self-play: 64 games in 43.2s, avg_moves=31.7, P1=26 P2=28 draw=10, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.1733, value_loss=0.3392
+  arena (13.4s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 107] self-play: 64 games in 43.1s, avg_moves=31.3, P1=24 P2=30 draw=10, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.1742, value_loss=0.3381
+  arena (13.1s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 108] self-play: 64 games in 41.6s, avg_moves=30.9, P1=24 P2=30 draw=10, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.1691, value_loss=0.3358
+  arena (18.9s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 109] self-play: 64 games in 43.9s, avg_moves=31.8, P1=26 P2=27 draw=11, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.1685, value_loss=0.3366
+  arena (16.3s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 110] self-play: 64 games in 45.7s, avg_moves=33.5, P1=22 P2=32 draw=10, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.1654, value_loss=0.3424
+  arena (17.9s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 111] self-play: 64 games in 43.5s, avg_moves=32.3, P1=31 P2=29 draw=4, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.1748, value_loss=0.3574
+  arena (18.8s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 112] self-play: 64 games in 45.3s, avg_moves=32.8, P1=25 P2=30 draw=9, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.1653, value_loss=0.3526
+  arena (17.8s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 113] self-play: 64 games in 43.4s, avg_moves=31.5, P1=28 P2=31 draw=5, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.1669, value_loss=0.3416
+  arena (17.9s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 114] self-play: 64 games in 45.3s, avg_moves=34.5, P1=19 P2=32 draw=13, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.1617, value_loss=0.3438
+  arena (18.6s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 115] self-play: 64 games in 45.8s, avg_moves=34.3, P1=25 P2=24 draw=15, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.1546, value_loss=0.3402
+  arena (17.4s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 116] self-play: 64 games in 44.7s, avg_moves=33.2, P1=20 P2=35 draw=9, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.1547, value_loss=0.3478
+  arena (17.4s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 117] self-play: 64 games in 44.5s, avg_moves=33.5, P1=24 P2=32 draw=8, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.1587, value_loss=0.3605
+  arena (19.8s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 118] self-play: 64 games in 44.9s, avg_moves=33.1, P1=17 P2=36 draw=11, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.1485, value_loss=0.3525
+  arena (17.6s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 119] self-play: 64 games in 44.8s, avg_moves=33.5, P1=17 P2=37 draw=10, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.1449, value_loss=0.3581
+  arena (17.2s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 120] self-play: 64 games in 43.9s, avg_moves=32.3, P1=23 P2=25 draw=16, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.1373, value_loss=0.3375
+  arena (18.2s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 121] self-play: 64 games in 45.4s, avg_moves=33.7, P1=18 P2=35 draw=11, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.1291, value_loss=0.3372
+  arena (17.3s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 122] self-play: 64 games in 43.3s, avg_moves=32.0, P1=22 P2=35 draw=7, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.1342, value_loss=0.3418
+  arena (16.9s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 123] self-play: 64 games in 43.2s, avg_moves=32.3, P1=26 P2=30 draw=8, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.1343, value_loss=0.3311
+  arena (18.3s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 124] self-play: 64 games in 43.2s, avg_moves=32.1, P1=27 P2=27 draw=10, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.1154, value_loss=0.3299
+  arena (15.1s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 125] self-play: 64 games in 43.0s, avg_moves=32.9, P1=33 P2=22 draw=9, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.1190, value_loss=0.3289
+  arena (16.3s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 126] self-play: 64 games in 45.5s, avg_moves=34.5, P1=23 P2=29 draw=12, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.1131, value_loss=0.3285
+  arena (18.6s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 127] self-play: 64 games in 42.8s, avg_moves=30.9, P1=27 P2=26 draw=11, buffer=100000
+  train: 200 steps in 2.5s, policy_loss=1.1067, value_loss=0.3345
+  arena (19.9s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 128] self-play: 64 games in 44.4s, avg_moves=32.7, P1=19 P2=35 draw=10, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.1020, value_loss=0.3296
+  arena (19.6s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 129] self-play: 64 games in 43.2s, avg_moves=31.5, P1=21 P2=24 draw=19, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0881, value_loss=0.3129
+  arena (19.9s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 130] self-play: 64 games in 44.0s, avg_moves=32.6, P1=23 P2=29 draw=12, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0867, value_loss=0.3157
+  arena (20.0s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 131] self-play: 64 games in 42.1s, avg_moves=30.7, P1=18 P2=38 draw=8, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0863, value_loss=0.3193
+  arena (20.0s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 132] self-play: 64 games in 45.7s, avg_moves=34.0, P1=14 P2=34 draw=16, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=1.0728, value_loss=0.3141
+  arena (21.0s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 133] self-play: 64 games in 45.3s, avg_moves=33.3, P1=24 P2=26 draw=14, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0658, value_loss=0.3124
+  arena (19.3s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 134] self-play: 64 games in 44.7s, avg_moves=34.0, P1=23 P2=30 draw=11, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0588, value_loss=0.3153
+  arena (19.9s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 135] self-play: 64 games in 42.7s, avg_moves=32.4, P1=25 P2=28 draw=11, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0509, value_loss=0.3024
+  arena (19.7s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 136] self-play: 64 games in 46.0s, avg_moves=34.1, P1=16 P2=32 draw=16, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0438, value_loss=0.3003
+  arena (19.4s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 137] self-play: 64 games in 46.2s, avg_moves=34.5, P1=22 P2=28 draw=14, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.0377, value_loss=0.2970
+  arena (19.8s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 138] self-play: 64 games in 44.4s, avg_moves=32.5, P1=23 P2=27 draw=14, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.0389, value_loss=0.3068
+  arena (19.4s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 139] self-play: 64 games in 43.8s, avg_moves=32.3, P1=22 P2=31 draw=11, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=1.0323, value_loss=0.2965
+  arena (19.0s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 140] self-play: 64 games in 45.4s, avg_moves=33.6, P1=16 P2=33 draw=15, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0181, value_loss=0.2955
+  arena (20.0s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 141] self-play: 64 games in 44.1s, avg_moves=33.0, P1=23 P2=32 draw=9, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0098, value_loss=0.2968
+  arena (19.1s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 142] self-play: 64 games in 43.9s, avg_moves=32.2, P1=20 P2=30 draw=14, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0083, value_loss=0.2999
+  arena (19.3s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 143] self-play: 64 games in 44.4s, avg_moves=33.2, P1=24 P2=25 draw=15, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0114, value_loss=0.2983
+  arena (20.3s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 144] self-play: 64 games in 43.0s, avg_moves=31.4, P1=23 P2=28 draw=13, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0097, value_loss=0.3089
+  arena (20.5s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 145] self-play: 64 games in 43.9s, avg_moves=31.9, P1=27 P2=26 draw=11, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0070, value_loss=0.3106
+  arena (20.0s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 146] self-play: 64 games in 44.8s, avg_moves=31.9, P1=24 P2=24 draw=16, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0035, value_loss=0.3017
+  arena (18.8s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 147] self-play: 64 games in 44.3s, avg_moves=33.3, P1=23 P2=27 draw=14, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9982, value_loss=0.3060
+  arena (17.0s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 148] self-play: 64 games in 45.1s, avg_moves=33.0, P1=20 P2=27 draw=17, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9981, value_loss=0.3075
+  arena (18.8s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 149] self-play: 64 games in 43.9s, avg_moves=32.5, P1=21 P2=27 draw=16, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0032, value_loss=0.3044
+  arena (19.8s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 150] self-play: 64 games in 43.2s, avg_moves=32.5, P1=22 P2=31 draw=11, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9994, value_loss=0.3024
+  arena (19.7s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 151] self-play: 64 games in 44.0s, avg_moves=32.1, P1=22 P2=28 draw=14, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0030, value_loss=0.2978
+  arena (19.2s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 152] self-play: 64 games in 42.1s, avg_moves=30.7, P1=33 P2=19 draw=12, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9979, value_loss=0.2963
+  arena (20.4s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 153] self-play: 64 games in 42.9s, avg_moves=32.1, P1=23 P2=29 draw=12, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0034, value_loss=0.3010
+  arena (20.3s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 154] self-play: 64 games in 44.9s, avg_moves=33.4, P1=22 P2=22 draw=20, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=0.9989, value_loss=0.3061
+  arena (19.6s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 155] self-play: 64 games in 44.4s, avg_moves=33.5, P1=23 P2=26 draw=15, buffer=100000
+  train: 200 steps in 3.3s, policy_loss=0.9964, value_loss=0.2930
+  arena (17.8s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 156] self-play: 64 games in 43.8s, avg_moves=31.2, P1=26 P2=25 draw=13, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=0.9934, value_loss=0.2964
+  arena (15.1s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 157] self-play: 64 games in 45.1s, avg_moves=32.2, P1=24 P2=21 draw=19, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9978, value_loss=0.2965
+  arena (19.0s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 158] self-play: 64 games in 44.0s, avg_moves=32.2, P1=25 P2=26 draw=13, buffer=100000
+  train: 200 steps in 2.5s, policy_loss=0.9984, value_loss=0.2930
+  arena (19.2s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 159] self-play: 64 games in 43.8s, avg_moves=32.7, P1=27 P2=27 draw=10, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0007, value_loss=0.3026
+  arena (18.7s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 160] self-play: 64 games in 43.5s, avg_moves=32.0, P1=21 P2=34 draw=9, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0033, value_loss=0.3119
+  arena (19.5s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 161] self-play: 64 games in 45.0s, avg_moves=33.8, P1=24 P2=25 draw=15, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0000, value_loss=0.3026
+  arena (19.5s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 162] self-play: 64 games in 41.4s, avg_moves=29.8, P1=28 P2=22 draw=14, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9981, value_loss=0.3038
+  arena (18.9s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 163] self-play: 64 games in 43.8s, avg_moves=32.5, P1=21 P2=29 draw=14, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9917, value_loss=0.3065
+  arena (19.4s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 164] self-play: 64 games in 43.4s, avg_moves=32.1, P1=21 P2=31 draw=12, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0004, value_loss=0.3103
+  arena (20.0s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 165] self-play: 64 games in 43.0s, avg_moves=31.4, P1=28 P2=24 draw=12, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9915, value_loss=0.3071
+  arena (19.6s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 166] self-play: 64 games in 46.0s, avg_moves=33.2, P1=27 P2=20 draw=17, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9921, value_loss=0.3143
+  arena (19.0s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 167] self-play: 64 games in 42.4s, avg_moves=30.7, P1=25 P2=28 draw=11, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9878, value_loss=0.3014
+  arena (20.3s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 168] self-play: 64 games in 43.1s, avg_moves=32.2, P1=24 P2=28 draw=12, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9841, value_loss=0.3088
+  arena (20.5s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 169] self-play: 64 games in 44.7s, avg_moves=33.1, P1=21 P2=27 draw=16, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9834, value_loss=0.3046
+  arena (19.5s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 170] self-play: 64 games in 44.1s, avg_moves=32.5, P1=28 P2=19 draw=17, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9816, value_loss=0.3044
+  arena (20.6s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 171] self-play: 64 games in 43.4s, avg_moves=32.1, P1=24 P2=24 draw=16, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=0.9769, value_loss=0.2991
+  arena (17.0s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 172] self-play: 64 games in 42.8s, avg_moves=30.8, P1=18 P2=37 draw=9, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9786, value_loss=0.3031
+  arena (19.8s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 173] self-play: 64 games in 43.4s, avg_moves=32.4, P1=24 P2=23 draw=17, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=0.9680, value_loss=0.2995
+  arena (19.8s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 174] self-play: 64 games in 43.4s, avg_moves=31.8, P1=21 P2=27 draw=16, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9730, value_loss=0.3011
+  arena (19.8s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 175] self-play: 64 games in 46.1s, avg_moves=34.9, P1=22 P2=27 draw=15, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=0.9702, value_loss=0.3015
+  arena (17.6s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 176] self-play: 64 games in 44.3s, avg_moves=33.4, P1=23 P2=23 draw=18, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=0.9582, value_loss=0.2951
+  arena (16.5s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 177] self-play: 64 games in 44.7s, avg_moves=32.9, P1=18 P2=24 draw=22, buffer=100000
+  train: 200 steps in 2.5s, policy_loss=0.9582, value_loss=0.3012
+  arena (17.2s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 178] self-play: 64 games in 44.3s, avg_moves=32.7, P1=25 P2=27 draw=12, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9611, value_loss=0.3000
+  arena (17.1s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 179] self-play: 64 games in 41.9s, avg_moves=31.0, P1=25 P2=30 draw=9, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9660, value_loss=0.3018
+  arena (18.7s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 180] self-play: 64 games in 39.8s, avg_moves=28.1, P1=24 P2=30 draw=10, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=0.9697, value_loss=0.2988
+  arena (19.7s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 181] self-play: 64 games in 44.5s, avg_moves=33.2, P1=25 P2=27 draw=12, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9660, value_loss=0.2995
+  arena (18.7s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 182] self-play: 64 games in 43.7s, avg_moves=32.5, P1=24 P2=19 draw=21, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9628, value_loss=0.2980
+  arena (20.1s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 183] self-play: 64 games in 42.6s, avg_moves=30.0, P1=24 P2=26 draw=14, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9680, value_loss=0.2896
+  arena (20.7s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 184] self-play: 64 games in 41.8s, avg_moves=29.8, P1=20 P2=32 draw=12, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=0.9705, value_loss=0.2899
+  arena (18.5s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 185] self-play: 64 games in 44.6s, avg_moves=32.5, P1=21 P2=27 draw=16, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9724, value_loss=0.2865
+  arena (17.7s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 186] self-play: 64 games in 46.2s, avg_moves=33.7, P1=20 P2=22 draw=22, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9691, value_loss=0.2834
+  arena (14.4s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 187] self-play: 64 games in 45.6s, avg_moves=32.5, P1=18 P2=28 draw=18, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9731, value_loss=0.2749
+  arena (16.6s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 188] self-play: 64 games in 45.3s, avg_moves=33.8, P1=24 P2=18 draw=22, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=0.9611, value_loss=0.2803
+  arena (17.9s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 189] self-play: 64 games in 43.1s, avg_moves=32.0, P1=25 P2=31 draw=8, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=0.9662, value_loss=0.2764
+  arena (17.7s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 190] self-play: 64 games in 45.7s, avg_moves=33.2, P1=20 P2=29 draw=15, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9687, value_loss=0.2731
+  arena (16.5s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 191] self-play: 64 games in 45.7s, avg_moves=34.0, P1=15 P2=37 draw=12, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9678, value_loss=0.2740
+  arena (16.6s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 192] self-play: 64 games in 42.5s, avg_moves=30.5, P1=21 P2=29 draw=14, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9743, value_loss=0.2665
+  arena (19.7s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 193] self-play: 64 games in 42.7s, avg_moves=31.2, P1=23 P2=25 draw=16, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9688, value_loss=0.2758
+  arena (18.1s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 194] self-play: 64 games in 41.7s, avg_moves=29.7, P1=29 P2=24 draw=11, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9625, value_loss=0.2759
+  arena (19.1s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 195] self-play: 64 games in 46.6s, avg_moves=36.0, P1=29 P2=21 draw=14, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9671, value_loss=0.2860
+  arena (18.8s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 196] self-play: 64 games in 42.6s, avg_moves=30.9, P1=33 P2=21 draw=10, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9606, value_loss=0.2846
+  arena (16.8s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 197] self-play: 64 games in 41.1s, avg_moves=29.4, P1=26 P2=27 draw=11, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=0.9637, value_loss=0.2884
+  arena (17.6s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 198] self-play: 64 games in 42.8s, avg_moves=32.0, P1=29 P2=22 draw=13, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9732, value_loss=0.2943
+  arena (14.1s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 199] self-play: 64 games in 42.1s, avg_moves=29.8, P1=32 P2=19 draw=13, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9639, value_loss=0.2746
+  arena (15.8s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 200] self-play: 64 games in 41.8s, avg_moves=30.4, P1=29 P2=22 draw=13, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9760, value_loss=0.2801
+  arena (14.0s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 201] self-play: 64 games in 41.4s, avg_moves=30.0, P1=33 P2=22 draw=9, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9716, value_loss=0.2856
+  arena (14.0s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 202] self-play: 64 games in 44.8s, avg_moves=32.1, P1=24 P2=25 draw=15, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9776, value_loss=0.2790
+  arena (14.0s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 203] self-play: 64 games in 43.4s, avg_moves=31.5, P1=27 P2=25 draw=12, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9790, value_loss=0.2907
+  arena (12.8s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 204] self-play: 64 games in 42.4s, avg_moves=29.8, P1=36 P2=20 draw=8, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9691, value_loss=0.2850
+  arena (17.9s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 205] self-play: 64 games in 42.0s, avg_moves=30.4, P1=34 P2=19 draw=11, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9721, value_loss=0.2809
+  arena (18.2s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 206] self-play: 64 games in 40.5s, avg_moves=30.1, P1=36 P2=21 draw=7, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9718, value_loss=0.2865
+  arena (17.7s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 207] self-play: 64 games in 41.6s, avg_moves=29.9, P1=34 P2=21 draw=9, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9760, value_loss=0.2939
+  arena (18.5s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 208] self-play: 64 games in 41.9s, avg_moves=31.7, P1=41 P2=13 draw=10, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9847, value_loss=0.2889
+  arena (19.3s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 209] self-play: 64 games in 42.2s, avg_moves=30.4, P1=36 P2=21 draw=7, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9754, value_loss=0.3034
+  arena (17.2s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 210] self-play: 64 games in 41.2s, avg_moves=30.1, P1=35 P2=25 draw=4, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9832, value_loss=0.2963
+  arena (16.8s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 211] self-play: 64 games in 41.5s, avg_moves=30.2, P1=35 P2=24 draw=5, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9877, value_loss=0.3109
+  arena (16.0s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 212] self-play: 64 games in 44.2s, avg_moves=31.2, P1=38 P2=20 draw=6, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=0.9943, value_loss=0.3149
+  arena (15.6s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 213] self-play: 64 games in 40.6s, avg_moves=30.3, P1=37 P2=18 draw=9, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9970, value_loss=0.3191
+  arena (18.0s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 214] self-play: 64 games in 42.2s, avg_moves=31.1, P1=28 P2=31 draw=5, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=0.9983, value_loss=0.3179
+  arena (16.1s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 215] self-play: 64 games in 43.3s, avg_moves=32.0, P1=29 P2=26 draw=9, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0115, value_loss=0.3291
+  arena (15.9s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 216] self-play: 64 games in 42.2s, avg_moves=30.6, P1=34 P2=17 draw=13, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.0045, value_loss=0.3157
+  arena (14.9s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 217] self-play: 64 games in 47.4s, avg_moves=31.0, P1=33 P2=22 draw=9, buffer=100000
+  train: 200 steps in 3.1s, policy_loss=1.0065, value_loss=0.3204
+  arena (19.2s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 218] self-play: 64 games in 42.6s, avg_moves=30.2, P1=38 P2=17 draw=9, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0113, value_loss=0.3119
+  arena (18.7s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 219] self-play: 64 games in 42.3s, avg_moves=29.8, P1=28 P2=30 draw=6, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0167, value_loss=0.3098
+  arena (18.4s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 220] self-play: 64 games in 43.9s, avg_moves=32.0, P1=25 P2=31 draw=8, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0201, value_loss=0.3153
+  arena (19.6s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 221] self-play: 64 games in 46.4s, avg_moves=32.9, P1=31 P2=20 draw=13, buffer=100000
+  train: 200 steps in 3.0s, policy_loss=1.0264, value_loss=0.3112
+  arena (17.4s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 222] self-play: 64 games in 43.4s, avg_moves=30.3, P1=30 P2=23 draw=11, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0240, value_loss=0.3044
+  arena (16.6s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 223] self-play: 64 games in 43.8s, avg_moves=30.9, P1=35 P2=18 draw=11, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0354, value_loss=0.3139
+  arena (14.1s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 224] self-play: 64 games in 42.3s, avg_moves=30.2, P1=28 P2=27 draw=9, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.0346, value_loss=0.3095
+  arena (18.9s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 225] self-play: 64 games in 42.5s, avg_moves=30.2, P1=29 P2=26 draw=9, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0415, value_loss=0.3178
+  arena (16.4s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 226] self-play: 64 games in 44.3s, avg_moves=30.6, P1=29 P2=25 draw=10, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0305, value_loss=0.3186
+  arena (15.0s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 227] self-play: 64 games in 42.6s, avg_moves=31.8, P1=29 P2=25 draw=10, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0454, value_loss=0.3208
+  arena (16.6s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 228] self-play: 64 games in 40.8s, avg_moves=27.8, P1=33 P2=20 draw=11, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0456, value_loss=0.3219
+  arena (14.1s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 229] self-play: 64 games in 44.1s, avg_moves=31.6, P1=26 P2=26 draw=12, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0438, value_loss=0.3343
+  arena (16.5s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 230] self-play: 64 games in 43.0s, avg_moves=30.7, P1=29 P2=25 draw=10, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.0453, value_loss=0.3306
+  arena (20.0s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 231] self-play: 64 games in 42.1s, avg_moves=29.2, P1=26 P2=27 draw=11, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=1.0475, value_loss=0.3207
+  arena (18.9s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 232] self-play: 64 games in 49.7s, avg_moves=31.8, P1=28 P2=23 draw=13, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0408, value_loss=0.3234
+  arena (19.8s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 233] self-play: 64 games in 44.0s, avg_moves=32.0, P1=24 P2=31 draw=9, buffer=100000
+  train: 200 steps in 3.0s, policy_loss=1.0393, value_loss=0.3264
+  arena (19.4s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 234] self-play: 64 games in 45.3s, avg_moves=32.4, P1=24 P2=26 draw=14, buffer=100000
+  train: 200 steps in 3.0s, policy_loss=1.0445, value_loss=0.3294
+  arena (19.3s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 235] self-play: 64 games in 46.6s, avg_moves=33.9, P1=20 P2=27 draw=17, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0459, value_loss=0.3291
+  arena (20.7s): candidate 0-0 best, draws=20, decisive_win_rate=50.0% -> kept best
+[iter 236] self-play: 64 games in 44.2s, avg_moves=31.5, P1=20 P2=32 draw=12, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0418, value_loss=0.3238
+  arena (18.9s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 237] self-play: 64 games in 44.0s, avg_moves=30.4, P1=22 P2=31 draw=11, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0427, value_loss=0.3175
+  arena (16.4s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 238] self-play: 64 games in 43.0s, avg_moves=30.3, P1=30 P2=24 draw=10, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0344, value_loss=0.3217
+  arena (19.4s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 239] self-play: 64 games in 41.7s, avg_moves=29.9, P1=27 P2=25 draw=12, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.0467, value_loss=0.3256
+  arena (18.9s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 240] self-play: 64 games in 46.6s, avg_moves=34.0, P1=25 P2=25 draw=14, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0356, value_loss=0.3180
+  arena (16.3s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 241] self-play: 64 games in 41.9s, avg_moves=29.4, P1=33 P2=24 draw=7, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=1.0285, value_loss=0.3258
+  arena (19.6s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 242] self-play: 64 games in 41.6s, avg_moves=29.9, P1=30 P2=28 draw=6, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0336, value_loss=0.3137
+  arena (17.1s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 243] self-play: 64 games in 42.2s, avg_moves=30.0, P1=28 P2=25 draw=11, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0375, value_loss=0.3168
+  arena (16.8s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 244] self-play: 64 games in 42.2s, avg_moves=29.0, P1=31 P2=25 draw=8, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0349, value_loss=0.3086
+  arena (18.6s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 245] self-play: 64 games in 40.7s, avg_moves=29.0, P1=31 P2=29 draw=4, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.0378, value_loss=0.3181
+  arena (18.3s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 246] self-play: 64 games in 48.8s, avg_moves=30.1, P1=32 P2=21 draw=11, buffer=100000
+  train: 200 steps in 3.6s, policy_loss=1.0340, value_loss=0.3142
+  arena (19.0s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 247] self-play: 64 games in 43.1s, avg_moves=26.3, P1=41 P2=17 draw=6, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0434, value_loss=0.3188
+  arena (12.6s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 248] self-play: 64 games in 35.9s, avg_moves=27.0, P1=46 P2=14 draw=4, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.0413, value_loss=0.3164
+  arena (18.6s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 249] self-play: 64 games in 39.5s, avg_moves=28.2, P1=40 P2=19 draw=5, buffer=100000
+  train: 200 steps in 3.0s, policy_loss=1.0485, value_loss=0.3032
+  arena (19.5s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 250] self-play: 64 games in 37.7s, avg_moves=27.7, P1=42 P2=14 draw=8, buffer=100000
+  train: 200 steps in 3.1s, policy_loss=1.0367, value_loss=0.3069
+  arena (13.4s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 251] self-play: 64 games in 43.3s, avg_moves=26.8, P1=36 P2=23 draw=5, buffer=100000
+  train: 200 steps in 3.0s, policy_loss=1.0434, value_loss=0.3077
+  arena (17.1s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 252] self-play: 64 games in 38.7s, avg_moves=26.3, P1=47 P2=10 draw=7, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=1.0401, value_loss=0.3058
+  arena (19.0s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 253] self-play: 64 games in 37.0s, avg_moves=27.3, P1=41 P2=19 draw=4, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.0429, value_loss=0.3144
+  arena (18.4s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 254] self-play: 64 games in 39.6s, avg_moves=28.1, P1=43 P2=19 draw=2, buffer=100000
+  train: 200 steps in 3.2s, policy_loss=1.0397, value_loss=0.3142
+  arena (21.8s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 255] self-play: 64 games in 45.7s, avg_moves=28.6, P1=42 P2=15 draw=7, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=1.0415, value_loss=0.3087
+  arena (15.6s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 256] self-play: 64 games in 40.0s, avg_moves=25.9, P1=50 P2=10 draw=4, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.0464, value_loss=0.3010
+  arena (15.3s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 257] self-play: 64 games in 40.7s, avg_moves=26.9, P1=45 P2=16 draw=3, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=1.0356, value_loss=0.3155
+  arena (14.7s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 258] self-play: 64 games in 43.1s, avg_moves=29.9, P1=40 P2=18 draw=6, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0481, value_loss=0.3186
+  arena (14.0s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 259] self-play: 64 games in 41.8s, avg_moves=29.0, P1=43 P2=17 draw=4, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.0334, value_loss=0.3195
+  arena (15.3s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 260] self-play: 64 games in 41.2s, avg_moves=29.2, P1=43 P2=16 draw=5, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0396, value_loss=0.3144
+  arena (13.3s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 261] self-play: 64 games in 39.9s, avg_moves=27.2, P1=46 P2=13 draw=5, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0388, value_loss=0.3051
+  arena (15.8s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 262] self-play: 64 games in 36.7s, avg_moves=24.5, P1=49 P2=14 draw=1, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0406, value_loss=0.3092
+  arena (17.7s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 263] self-play: 64 games in 37.0s, avg_moves=25.5, P1=51 P2=10 draw=3, buffer=100000
+  train: 200 steps in 3.0s, policy_loss=1.0386, value_loss=0.3128
+  arena (20.7s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 264] self-play: 64 games in 38.4s, avg_moves=26.6, P1=47 P2=14 draw=3, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0313, value_loss=0.3141
+  arena (18.2s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 265] self-play: 64 games in 37.9s, avg_moves=25.8, P1=53 P2=8 draw=3, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.0380, value_loss=0.3158
+  arena (15.6s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 266] self-play: 64 games in 37.7s, avg_moves=25.4, P1=50 P2=10 draw=4, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0339, value_loss=0.3092
+  arena (14.7s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 267] self-play: 64 games in 37.3s, avg_moves=25.1, P1=41 P2=17 draw=6, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0301, value_loss=0.3115
+  arena (13.3s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 268] self-play: 64 games in 39.3s, avg_moves=27.3, P1=46 P2=15 draw=3, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0352, value_loss=0.3092
+  arena (13.4s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 269] self-play: 64 games in 38.5s, avg_moves=27.0, P1=51 P2=9 draw=4, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0278, value_loss=0.3015
+  arena (14.4s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 270] self-play: 64 games in 39.5s, avg_moves=26.4, P1=52 P2=9 draw=3, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.0313, value_loss=0.2987
+  arena (15.1s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 271] self-play: 64 games in 38.6s, avg_moves=26.6, P1=50 P2=11 draw=3, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0274, value_loss=0.2999
+  arena (15.3s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 272] self-play: 64 games in 38.2s, avg_moves=26.4, P1=53 P2=9 draw=2, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0260, value_loss=0.2969
+  arena (15.5s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 273] self-play: 64 games in 36.2s, avg_moves=25.0, P1=51 P2=11 draw=2, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0180, value_loss=0.2974
+  arena (14.2s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 274] self-play: 64 games in 35.8s, avg_moves=24.1, P1=44 P2=17 draw=3, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.0191, value_loss=0.2929
+  arena (16.4s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 275] self-play: 64 games in 39.8s, avg_moves=26.8, P1=49 P2=14 draw=1, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.0205, value_loss=0.2950
+  arena (13.8s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 276] self-play: 64 games in 39.6s, avg_moves=27.9, P1=51 P2=10 draw=3, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0264, value_loss=0.2914
+  arena (15.1s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 277] self-play: 64 games in 39.6s, avg_moves=27.8, P1=50 P2=11 draw=3, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0167, value_loss=0.2976
+  arena (12.8s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 278] self-play: 64 games in 42.7s, avg_moves=29.9, P1=35 P2=19 draw=10, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0167, value_loss=0.2981
+  arena (16.3s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 279] self-play: 64 games in 38.1s, avg_moves=26.3, P1=46 P2=11 draw=7, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=1.0209, value_loss=0.2964
+  arena (14.1s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 280] self-play: 64 games in 41.5s, avg_moves=28.5, P1=44 P2=13 draw=7, buffer=100000
+  train: 200 steps in 3.0s, policy_loss=1.0207, value_loss=0.2950
+  arena (16.7s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 281] self-play: 64 games in 41.6s, avg_moves=29.4, P1=46 P2=14 draw=4, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.0215, value_loss=0.2923
+  arena (18.4s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 282] self-play: 64 games in 41.5s, avg_moves=28.6, P1=43 P2=18 draw=3, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0183, value_loss=0.2944
+  arena (15.6s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 283] self-play: 64 games in 38.8s, avg_moves=26.2, P1=46 P2=13 draw=5, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0144, value_loss=0.2899
+  arena (18.3s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 284] self-play: 64 games in 40.4s, avg_moves=28.8, P1=43 P2=16 draw=5, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0195, value_loss=0.2933
+  arena (17.7s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 285] self-play: 64 games in 44.6s, avg_moves=31.7, P1=45 P2=12 draw=7, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0139, value_loss=0.2923
+  arena (15.3s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 286] self-play: 64 games in 39.0s, avg_moves=26.9, P1=50 P2=12 draw=2, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0157, value_loss=0.2882
+  arena (12.4s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 287] self-play: 64 games in 42.5s, avg_moves=29.9, P1=37 P2=20 draw=7, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.0215, value_loss=0.2916
+  arena (14.9s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 288] self-play: 64 games in 41.1s, avg_moves=28.1, P1=45 P2=14 draw=5, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0180, value_loss=0.2921
+  arena (15.6s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 289] self-play: 64 games in 37.5s, avg_moves=24.6, P1=48 P2=10 draw=6, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0217, value_loss=0.2917
+  arena (16.5s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 290] self-play: 64 games in 40.0s, avg_moves=27.5, P1=49 P2=10 draw=5, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0171, value_loss=0.2906
+  arena (13.4s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 291] self-play: 64 games in 41.4s, avg_moves=29.2, P1=46 P2=14 draw=4, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0132, value_loss=0.2843
+  arena (15.5s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 292] self-play: 64 games in 39.8s, avg_moves=27.9, P1=50 P2=9 draw=5, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0166, value_loss=0.2879
+  arena (18.4s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 293] self-play: 64 games in 39.6s, avg_moves=26.5, P1=48 P2=12 draw=4, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0115, value_loss=0.2808
+  arena (15.9s): candidate 0-10 best, draws=10, decisive_win_rate=0.0% -> kept best
+[iter 294] self-play: 64 games in 41.2s, avg_moves=28.5, P1=44 P2=12 draw=8, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0040, value_loss=0.2827
+  arena (16.4s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
+[iter 295] self-play: 64 games in 40.7s, avg_moves=28.9, P1=49 P2=12 draw=3, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0092, value_loss=0.2900
+  arena (20.5s): candidate 10-0 best, draws=10, decisive_win_rate=100.0% -> PROMOTED
+[iter 296] self-play: 64 games in 38.9s, avg_moves=26.8, P1=51 P2=9 draw=4, buffer=100000
+  train: 200 steps in 2.8s, policy_loss=1.0154, value_loss=0.2854
+  arena (16.0s): candidate 20-0 best, draws=0, decisive_win_rate=100.0% -> PROMOTED
+[iter 297] self-play: 64 games in 37.5s, avg_moves=25.4, P1=50 P2=14 draw=0, buffer=100000
+  train: 200 steps in 2.9s, policy_loss=1.0083, value_loss=0.2830
+  arena (14.6s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 298] self-play: 64 games in 38.9s, avg_moves=26.1, P1=47 P2=14 draw=3, buffer=100000
+  train: 200 steps in 2.7s, policy_loss=1.0082, value_loss=0.2835
+  arena (14.9s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 299] self-play: 64 games in 38.3s, avg_moves=26.3, P1=47 P2=13 draw=4, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0142, value_loss=0.2808
+  arena (12.2s): candidate 0-20 best, draws=0, decisive_win_rate=0.0% -> kept best
+[iter 300] self-play: 64 games in 40.3s, avg_moves=28.1, P1=46 P2=10 draw=8, buffer=100000
+  train: 200 steps in 2.6s, policy_loss=1.0185, value_loss=0.2902
+  arena (11.4s): candidate 10-10 best, draws=0, decisive_win_rate=50.0% -> kept best
